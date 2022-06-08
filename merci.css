@@ -1,0 +1,12 @@
+.merci{
+    width: 50%;
+    height: 50%;
+    margin: 12% 0 0 25%;
+    border: 2px solid salmon;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.26);
+}
+p{
+    margin-top: 12%;
+    text-align: center;
+}
